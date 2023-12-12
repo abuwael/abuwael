@@ -17,6 +17,7 @@
 <a href="https://linkedin.com/in/mahmoud-radwan-12289427b" target="_blank"><img src="https://img.shields.io/badge/-Abuwael%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
