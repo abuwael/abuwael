@@ -11,6 +11,7 @@
 
 - 🏢 I'm a Software Engineer at Blanco
 - 👨‍💻 As a Android Developer, I'm constantly learning and exploring new technologies to improve my skills.
+- 💻 I'm currently doing my master's degree in computer science at Alx.
 
 
 ### Connect with Me :
